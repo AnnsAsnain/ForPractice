@@ -1,0 +1,15 @@
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\bin\Debug\net6.0\MarksSheet.exe
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\bin\Debug\net6.0\MarksSheet.deps.json
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\bin\Debug\net6.0\MarksSheet.runtimeconfig.json
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\bin\Debug\net6.0\MarksSheet.dll
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\bin\Debug\net6.0\MarksSheet.pdb
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.csproj.AssemblyReference.cache
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.AssemblyInfoInputs.cache
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.AssemblyInfo.cs
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.csproj.CoreCompileInputs.cache
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.dll
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\refint\MarksSheet.dll
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.pdb
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\MarksSheet.genruntimeconfig.cache
+D:\Anns Mushtaq\Project New\MarksSheet\MarksSheet\obj\Debug\net6.0\ref\MarksSheet.dll
