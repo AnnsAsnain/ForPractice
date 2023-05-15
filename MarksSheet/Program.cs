@@ -151,7 +151,7 @@ public class nestedif
                 }
                 else
                 {
-                    Console.WriteLine("Wrong Name");
+                    Console.WriteLine("Please Enter Valid Name OtherWise GoToHell");
                 }
             }
             else
